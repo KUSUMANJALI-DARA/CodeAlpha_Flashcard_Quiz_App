@@ -14,6 +14,17 @@ A native Android Flashcard Quiz App developed as part of my CodeAlpha internship
 
 FlashForge is a Kotlin-based Android application that helps users study using interactive flashcards. Users can view questions, reveal answers, navigate between cards, and manage their own flashcard deck.
 
+## Screenshots
+
+### Splash Screen
+![Splash Screen](screenshots/splash-screen.jpg)
+
+### Home Screen
+![Home Screen](screenshots/home-screen.jpg)
+
+### Add Flashcard Screen
+![Add Flashcard Screen](screenshots/add-flashcard.jpg)
+
 ## Features
 
 - Splash screen with developer name and social links
